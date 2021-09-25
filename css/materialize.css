@@ -9097,3 +9097,11 @@ input[type=range]::-ms-thumb {
 .logo{
   size: 1%;
 }
+
+.skills span{
+  visibility: hidden;
+}
+
+.skills img:hover span{
+  visibility: visible;
+}
