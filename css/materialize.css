@@ -9098,10 +9098,8 @@ input[type=range]::-ms-thumb {
   size: 1%;
 }
 
-.skills span{
-  visibility: hidden;
+.projet{
+  background-color :rgba(38, 166, 154, 0.4)
 }
 
-.skills img:hover span{
-  visibility: visible;
-}
+
