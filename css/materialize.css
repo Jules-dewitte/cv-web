@@ -9102,4 +9102,42 @@ input[type=range]::-ms-thumb {
   background-color :rgba(38, 166, 154, 0.4)
 }
 
+.img-project {
+  background-color: black;
+  width: 250px;
+  height: 250px;
+}
+
+
+.contain {
+  display: inline-block;
+  position: relative;
+}
+.text {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0%;
+  color:black;
+  background-color: rgba(0,0,0,.5);
+}
+
+ .text:hover {
+  opacity: 0;
+}
+
+.project-text{
+  text-align: center;
+  padding-top: 40%;
+}
+
+.souligne{
+  text-decoration: underline;
+}
+
+.bigtext{
+  font-size: 1.5em;
+}
 
