@@ -9139,4 +9139,14 @@ input[type=range]::-ms-thumb {
 
 .bigtext{
   font-size: 1.5em;
+ 
+}
+
+.white-text{
+  color: white;
+}
+
+.brown-project{
+  background-color:rgba(66, 40, 11, 0.4);
+  margin: 15px;
 }
